@@ -2,7 +2,7 @@
 
 ## Лысов Денис Иванович
 
-![](../Portfolio/img/1.jpeg)
+![Фото профиля](https://github.com/danlisov/Portfolio/blob/main/img/1.jpeg?raw=true)
 
 Мужчина, 25 лет, родился 11 июня 1997
 
